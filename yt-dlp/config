@@ -1,0 +1,1 @@
+-o "D:/ytdlarchive/%(title)s-%(id)s.%(ext)s" --download-archive C:/Users/Paper/.ytdlarchive --retries 100 --no-overwrites --call-home --continue --write-info-json --write-description --write-thumbnail --write-annotations --all-subs --sub-format srt --convert-subs srt --write-sub --add-metadata -f bestvideo[vcodec=avc1]+bestaudio[ext=m4a]/best --prefer-ffmpeg --embed-thumbnail
