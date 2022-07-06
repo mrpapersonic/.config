@@ -1,10 +1,9 @@
-# arch-config
-my config files (dotfiles?)
+# my config files
 
 programs:
-* `ungoogled-chromium` (browser)
+* `firefox` (browser)
 * `urxvt` (terminal)
-* `lightdm` (display manager)
+* `ly` (display manager)
 * `zsh` (shell)
 * `dwm` (window manager)
 * `slstatus` (dwm status)
